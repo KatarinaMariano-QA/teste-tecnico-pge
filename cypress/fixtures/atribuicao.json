@@ -1,0 +1,13 @@
+{
+    "dadosAtribuicao": {
+        "areaSelecionada" : "ADNIS",
+        "subAreaColaborador" : "Teste",
+        "SO": "WINDOWS 10 PRO",
+        "atendente": "Atendente",
+        "tombo": "KAT12345",
+        "status": "VÍNCULADO",
+        "mensagemSucesso": "Ativos vinculados a: Teste, Parabéns!"
+    }
+    
+
+}
